@@ -1,0 +1,3 @@
+C:\Users\USER\Desktop\FaceBook\facebook-sdk-6.2.2\samples\FacebookSample.Android\FacebookSample.Android\obj\Debug\SampleFb.Droid.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\FaceBook\facebook-sdk-6.2.2\samples\FacebookSample.Android\FacebookSample.Android\obj\Debug\FacebookSample.Android.dll
+C:\Users\USER\Desktop\FaceBook\facebook-sdk-6.2.2\samples\FacebookSample.Android\FacebookSample.Android\obj\Debug\FacebookSample.Android.pdb

@@ -1,0 +1,17 @@
+C:\Users\USER\Desktop\FaceBook\facebook-sdk-6.2.2\samples\FacebookSample.Android\FacebookSample.Android\obj\Debug\FacebookSample.Android.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\FaceBook\facebook-sdk-6.2.2\samples\FacebookSample.Android\FacebookSample.Android\bin\Debug\FacebookSample.Android.dll
+C:\Users\USER\Desktop\FaceBook\facebook-sdk-6.2.2\samples\FacebookSample.Android\FacebookSample.Android\bin\Debug\FacebookSample.Android.pdb
+C:\Users\USER\Desktop\FaceBook\facebook-sdk-6.2.2\samples\FacebookSample.Android\FacebookSample.Android\bin\Debug\FacebookSample.Android.dll.mdb
+C:\Users\USER\Desktop\FaceBook\facebook-sdk-6.2.2\samples\FacebookSample.Android\FacebookSample.Android\bin\Debug\FacebookSample.Android.apk
+C:\Users\USER\Desktop\FaceBook\facebook-sdk-6.2.2\samples\FacebookSample.Android\FacebookSample.Android\bin\Debug\FacebookSample.Android-Signed.apk
+C:\Users\USER\Desktop\FaceBook\facebook-sdk-6.2.2\samples\FacebookSample.Android\FacebookSample.Android\bin\Debug\Facebook.dll
+C:\Users\USER\Desktop\FaceBook\facebook-sdk-6.2.2\samples\FacebookSample.Android\FacebookSample.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\USER\Desktop\FaceBook\facebook-sdk-6.2.2\samples\FacebookSample.Android\FacebookSample.Android\bin\Debug\Xamarin.Facebook.dll
+C:\Users\USER\Desktop\FaceBook\facebook-sdk-6.2.2\samples\FacebookSample.Android\FacebookSample.Android\obj\Debug\FacebookSample.Android.dll
+C:\Users\USER\Desktop\FaceBook\facebook-sdk-6.2.2\samples\FacebookSample.Android\FacebookSample.Android\obj\Debug\FacebookSample.Android.pdb
+C:\Users\USER\Desktop\FaceBook\facebook-sdk-6.2.2\samples\FacebookSample.Android\FacebookSample.Android\obj\Debug\android\bin\FacebookSample.Android.apk
+C:\Users\USER\Desktop\FaceBook\facebook-sdk-6.2.2\samples\FacebookSample.Android\FacebookSample.Android\obj\Debug\res\layout\main.xml
+C:\Users\USER\Desktop\FaceBook\facebook-sdk-6.2.2\samples\FacebookSample.Android\FacebookSample.Android\obj\Debug\res\values\strings.xml
+C:\Users\USER\Desktop\FaceBook\facebook-sdk-6.2.2\samples\FacebookSample.Android\FacebookSample.Android\obj\Debug\res\drawable\icon.png
+C:\Users\USER\Desktop\FaceBook\facebook-sdk-6.2.2\samples\FacebookSample.Android\FacebookSample.Android\obj\Debug\R.cs.flag
+C:\Users\USER\Desktop\FaceBook\facebook-sdk-6.2.2\samples\FacebookSample.Android\FacebookSample.Android\obj\Debug\uploadflags.txt

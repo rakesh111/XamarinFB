@@ -1,0 +1,1 @@
+C:\Users\USER\Desktop\FaceBook\facebook-sdk-6.2.2\samples\FacebookSample.Android\FacebookSample.Android\obj\Release\SampleFb.Droid.csprojResolveAssemblyReference.cache

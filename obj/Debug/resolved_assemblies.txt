@@ -1,0 +1,4 @@
+C:\Users\USER\Desktop\FaceBook\facebook-sdk-6.2.2\samples\FacebookSample.Android\FacebookSample.Android\bin\Debug\FacebookSample.Android.dll
+C:\Users\USER\Desktop\FaceBook\facebook-sdk-6.2.2\lib\android\Facebook.dll
+C:\Users\USER\Desktop\FaceBook\facebook-sdk-6.2.2\samples\FacebookSample.Android\packages\Xamarin.Android.Support.v4.21.0.3.0\lib\MonoAndroid10\Xamarin.Android.Support.v4.dll
+C:\Users\USER\Desktop\FaceBook\facebook-sdk-6.2.2\samples\FacebookSample.Android\packages\Xamarin.Facebook.3.22.0.0\lib\MonoAndroid40\Xamarin.Facebook.dll
